@@ -1,2 +1,2 @@
 # wilderydes
-Wilderydes run
+Wilderydes run, practicing serverless on AWS
